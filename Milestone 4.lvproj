@@ -107,13 +107,13 @@ AddOutputFilter chunkFilter
 		<Item Name="draw_rectangles.vi" Type="VI" URL="../draw_rectangles.vi"/>
 		<Item Name="Instruction.ctl" Type="VI" URL="../Instruction.ctl"/>
 		<Item Name="Instruction.lvclass" Type="LVClass" URL="../class/Instruction.lvclass"/>
-		<Item Name="Line.lvclass" Type="LVClass" URL="../../class/Line.lvclass"/>
+		<Item Name="Line.lvclass" Type="LVClass" URL="../class/Line.lvclass"/>
 		<Item Name="Map.vi" Type="VI" URL="../Map.vi"/>
 		<Item Name="move_robot.vi" Type="VI" URL="../move_robot.vi"/>
 		<Item Name="MovementInstruction.lvclass" Type="LVClass" URL="../class/MovementInstruction.lvclass"/>
 		<Item Name="perform_instruction.vi" Type="VI" URL="../perform_instruction.vi"/>
 		<Item Name="Point.lvclass" Type="LVClass" URL="../class/Point.lvclass"/>
-		<Item Name="Rectangle.lvclass" Type="LVClass" URL="../../class/Rectangle.lvclass"/>
+		<Item Name="Rectangle.lvclass" Type="LVClass" URL="../class/Rectangle.lvclass"/>
 		<Item Name="Robot.ctl" Type="VI" URL="../Robot.ctl"/>
 		<Item Name="Sensor.lvclass" Type="LVClass" URL="../class/Sensor.lvclass"/>
 		<Item Name="SonarSensor.lvclass" Type="LVClass" URL="../class/SonarSensor.lvclass"/>
