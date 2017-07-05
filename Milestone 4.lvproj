@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Rectangle.lvclass" Type="LVClass" URL="../class/Rectangle.lvclass"/>
 		<Item Name="Robot.ctl" Type="VI" URL="../Robot.ctl"/>
 		<Item Name="Sensor.lvclass" Type="LVClass" URL="../class/Sensor.lvclass"/>
+		<Item Name="sonarPositionUpdate.vi" Type="VI" URL="../sonarPositionUpdate.vi"/>
 		<Item Name="SonarSensor.lvclass" Type="LVClass" URL="../class/SonarSensor.lvclass"/>
 		<Item Name="StopInstruction.lvclass" Type="LVClass" URL="../class/StopInstruction.lvclass"/>
 		<Item Name="TurnInstruction.lvclass" Type="LVClass" URL="../class/TurnInstruction.lvclass"/>
