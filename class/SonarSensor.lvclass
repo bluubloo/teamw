@@ -31,13 +31,22 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="Take Reading.vi" Type="VI" URL="../sonarSensor/Take Reading.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%N!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%U!+!!V%;8.U97ZD:3"3:7&amp;E!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!+!!&gt;/&gt;7VF=GFD!#2!1!!#``````````]!"B*09H.U97.M:3"#&lt;X6O:(*J:8-!!#*!=!!?!!!.#U.B=CZM&gt;G.M98.T!!N$98)O&lt;(:D&lt;'&amp;T=Q!S1(!!(A!!&amp;2.4&lt;WZB=F.F&lt;H.P=CZM&gt;G.M98.T!".4&lt;WZB=F.F&lt;H.P=CZM&gt;G.M98.T!$!!]!!'!!-!"!!&amp;!!=!#!!*!Q!!3!!!$1)!!!E!!!!)!!!##!!!!!A!!!!)!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%N!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%U!+!!V%;8.U97ZD:3"3:7&amp;E!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!+!!&gt;/&gt;7VF=GFD!#2!1!!#``````````]!"B*09H.U97.M:3"#&lt;X6O:(*J:8-!!#*!=!!?!!!.#U.B=CZM&gt;G.M98.T!!N$98)O&lt;(:D&lt;'&amp;T=Q!S1(!!(A!!&amp;2.4&lt;WZB=F.F&lt;H.P=CZM&gt;G.M98.T!".4&lt;WZB=F.F&lt;H.P=CZM&gt;G.M98.T!$!!]!!'!!-!"!!&amp;!!=!#!!*!Q!!3!!!$1)!!!E!!!!)!!!##!!!!!A!!!!+!!!!!!%!#A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+	</Item>
+	<Item Name="ToF to Distance.vi" Type="VI" URL="../sonarSensor/ToF to Distance.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"%!!!!!Q!01!I!#%2J=X2B&lt;G.F!!!61!I!$F2J&lt;75A&lt;W9A2GRJ:WBU!!!9!0!!!A!!!!%#!!!)!!!.!1!!#A!!!!!"!!)!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="Voltage to Distance.vi" Type="VI" URL="../sonarSensor/Voltage to Distance.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#F!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$U!+!!B%;8.U97ZD:1!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!I!"V:P&lt;(2B:W5!*!$Q!!1!!Q!%!!5!"A)!!#A!!!U#!!!.!Q!!#!!!!!I!!!!!!1!(!!!!!!</Property>
