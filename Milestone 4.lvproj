@@ -101,10 +101,12 @@ AddOutputFilter chunkFilter
 			<Item Name="Get Key Points.vi" Type="VI" URL="../path_finding/Get Key Points.vi"/>
 			<Item Name="Insert Turns.vi" Type="VI" URL="../path_finding/Insert Turns.vi"/>
 			<Item Name="Merge Similar.vi" Type="VI" URL="../path_finding/Merge Similar.vi"/>
+			<Item Name="To AStar Map.vi" Type="VI" URL="../path_finding/To AStar Map.vi"/>
 		</Item>
 		<Item Name="physicalRobot" Type="Folder">
 			<Item Name="checkBatteryLevel.vi" Type="VI" URL="../checkBatteryLevel.vi"/>
 			<Item Name="checkRobot.vi" Type="VI" URL="../checkRobot.vi"/>
+			<Item Name="Lights and switches testing.vi" Type="VI" URL="../physical_robot/Lights and switches testing.vi"/>
 			<Item Name="PWM to Speed Test.vi" Type="VI" URL="../physical_robot/PWM to Speed Test.vi"/>
 			<Item Name="Read Back Sonar.vi" Type="VI" URL="../physical_robot/Read Back Sonar.vi"/>
 			<Item Name="Read Front Sonar.vi" Type="VI" URL="../physical_robot/Read Front Sonar.vi"/>
@@ -1880,11 +1882,13 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="draw_rectangles.vi" Type="VI" URL="../draw_rectangles.vi"/>
+		<Item Name="find-path.vi" Type="VI" URL="../find-path.vi"/>
 		<Item Name="Instruction.ctl" Type="VI" URL="../Instruction.ctl"/>
 		<Item Name="Instruction.lvclass" Type="LVClass" URL="../class/Instruction.lvclass"/>
 		<Item Name="Line.lvclass" Type="LVClass" URL="../class/Line.lvclass"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Map.vi" Type="VI" URL="../Map.vi"/>
+		<Item Name="motor calibration.vi" Type="VI" URL="../motor calibration.vi"/>
 		<Item Name="move_robot.vi" Type="VI" URL="../move_robot.vi"/>
 		<Item Name="MovementInstruction.lvclass" Type="LVClass" URL="../class/MovementInstruction.lvclass"/>
 		<Item Name="perform_instruction.vi" Type="VI" URL="../perform_instruction.vi"/>
